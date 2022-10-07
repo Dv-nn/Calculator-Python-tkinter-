@@ -6,5 +6,5 @@ subtraction, multiplication and division.
   
   
 # Screenshots:          
-![alt text](screenshots/img1.png "Screenshot1")      
+![alt text](img1.png "Screenshot1")      
    
